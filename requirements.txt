@@ -1,0 +1,10 @@
+requests
+pandas
+langchain-google-genai
+matplotlib
+pyarrow
+streamlit
+torch
+sentence-transformers
+numpy
+faiss-cpu
